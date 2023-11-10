@@ -1,4 +1,4 @@
-#  Endless Runner template for Unity
+# Endless Runner template for Unity
 
 ![Runner template screenshot](https://i.imgur.com/0SXy7iT.gif) 
 
